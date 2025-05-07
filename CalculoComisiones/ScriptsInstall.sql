@@ -27,7 +27,7 @@ ToleranciaPorcentaje DECIMAL(5,2) NOT NULL
 );
 
 INSERT INTO FS.CS_CC_CONFIGURACION_TOLERANCIA (ToleranciaPorcentaje)
-VALUES (5.00);
+VALUES (3.00);
 
 
 
